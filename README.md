@@ -1,7 +1,7 @@
 <div>
   
   <h1 align="center">
-    Oi, tudo bem? eu sou o 
+    Opa, tudo certo? eu sou o 
     <a href="https://www.linkedin.com/in/edmilson-cruz-988654234/">Edmilson Cruz!</a>
   </h1>
   
@@ -26,6 +26,6 @@
 </div><br>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/edmilson-cruz-988654234/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="www.linkedin.com/in/edmilson-cruz-" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="mailto:edmilsoncruz.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
