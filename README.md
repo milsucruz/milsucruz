@@ -1,20 +1,52 @@
-<div>
-  
-  <h1 align="center">
-    Opa, tudo certo? eu sou o 
-    <a href="https://www.linkedin.com/in/edmilson-cruz-988654234/">Edmilson Cruz!</a>
-  </h1>
-  
+<div align="center">
+
+# Edmilson Cruz
+### Backend Software Engineer
+
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
+![ASP.NET](https://img.shields.io/badge/ASP.NET-5C2D91?style=flat&logo=dotnet&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+
 </div>
 
-<div align="center">
-  <a href="https://github.com/milsucruz">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=milsucruz&count_private=true&include_all_commits=true&show_icons=true&theme=github_dark&hide_border=false&show_owner=true"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=milsucruz&theme=github_dark&hide_border=false&&layout=compact"/>
-  </a>
-</div><br>
+---
+
+## About
+
+Backend Engineer specialized in **.NET and C#**, focused on high-criticality systems in **fintech and corporate environments**. Proven experience designing, developing, and operating microservices and REST APIs integrated with SQL Server and Oracle, supporting national and cross-border payment flows.
+
+Demonstrated production impact: **+80% throughput**, **−45% latency**, and **−30% recurring incidents** through structural refactoring and performance tuning.
+
+---
+
+## Experience
+
+**Grupo Autoglass** · Software Engineer _(Jul 2025 – present)_
+> Modernization of critical corporate systems. Refactored APIs to .NET 8 with +80% throughput gain and 45% reduction in response time.
+
+**FitBank (Fintech)** · Software Engineer _(Oct 2023 – Mar 2025)_
+> International payment microservices (Mexico, Guatemala, Brazil). SQL Server optimization with −35% response time and mentoring of 2 trainee developers.
+
+**Luciano Ótica** · Software Engineer _(Feb 2023 – Sep 2023)_
+> Full e-commerce platform with virtual fitting room and payment gateway integrations (React + .NET).
+
+---
+
+## Languages
+
+🇧🇷 Portuguese - Native · 🇺🇸 English - Professional Working Proficiency
+
+---
 
 <div align="center">
-  <a href="www.linkedin.com/in/edmilson-cruz-" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="mailto:edmilsoncruz.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+
+📫 edmilsoncruz.dev@gmail.com · [LinkedIn](www.linkedin.com/in/edmilson-cruz-)
+
 </div>
