@@ -29,7 +29,7 @@ Demonstrated production impact: **+80% throughput**, **−45% latency**, and **�
 ## Experience
 
 **Grupo Autoglass** · Software Engineer _(Jul 2025 – present)_
-> Modernization of critical corporate systems. Refactored APIs to .NET 8 with +80% throughput gain and 45% reduction in response time.
+> Modernization of critical corporate systems. Refactored APIs to .NET 10 with +80% throughput gain and 45% reduction in response time.
 
 **FitBank (Fintech)** · Software Engineer _(Oct 2023 – Mar 2025)_
 > International payment microservices (Mexico, Guatemala, Brazil). SQL Server optimization with −35% response time and mentoring of 2 trainee developers.
